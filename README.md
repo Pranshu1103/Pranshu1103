@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer, Python Programmer from India</h3>
 
 - 📫 How to reach me **vermapranshu84@gmail.com**
+- <img align="right" height="250px" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" style="max-width: 100%;">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
