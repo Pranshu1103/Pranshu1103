@@ -1,12 +1,13 @@
 <h1>I'm Pranshu verma</h1>
 <h3 align="center">A passionate frontend developer, Python Programmer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranshu1103&label=Profile%20views&color=0e75b6&style=flat" alt="pranshu1103" /> </p>
-
+- <img align="right" height="250px" alt="GIF" src="image_processing20210911-11759-wbb9xa.gif" style="max-width: 100%;">
 - 🔭 I’m currently working on *HTML/CSS*
 - 🌱 I’m currently learning *Data Structures*
 - 🤝 I’m looking for help with *Django and Linux*
 - 📫 How to reach me **vermapranshu84@gmail.com**
-- <img align="right" height="250px" alt="GIF" src="image_processing20210911-11759-wbb9xa.gif" style="max-width: 100%;">
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
