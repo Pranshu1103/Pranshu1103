@@ -17,10 +17,10 @@
 <a href="https://www.codechef.com/users/pranshu1103" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pranshu1103" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=pranshu1103&show_icons=true&&theme=react&count_private=true&include_all_commits=true" alt="pranshu1103" /></p>
 
 <br>
 <br>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=pranshu1103&show_icons=true&&theme=react&count_private=true&include_all_commits=true" alt="pranshu1103" /></p>
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
