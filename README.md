@@ -1,4 +1,4 @@
-<h1>I'm Pranshu verma</h1>
+<h1 align="center">I'm Pranshu verma</h1>
 <h3 align="center">A passionate frontend developer, Python Programmer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranshu1103&label=Profile%20views&color=0e75b6&style=flat" alt="pranshu1103" /> </p>
 <img align="right" height="250px" alt="GIF" src="image_processing20210911-11759-wbb9xa.gif" style="max-width: 100%;">
