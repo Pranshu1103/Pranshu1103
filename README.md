@@ -19,7 +19,8 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=pranshu1103&show_icons=true&&theme=react&count_private=true&include_all_commits=true" alt="pranshu1103" /></p>
 
-
+<br>
+<br>
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
