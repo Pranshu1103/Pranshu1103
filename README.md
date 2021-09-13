@@ -22,7 +22,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranshu1103&show_icons=true&locale=en" alt="pranshu1103" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranshu1103&show_icons=true&&theme=react&count_private=true&include_all_commits=true" alt="pranshu1103" /></p>
 
 
 
