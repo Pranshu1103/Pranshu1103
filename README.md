@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer, Python Programmer from India</h3>
 
 - 📫 How to reach me **vermapranshu84@gmail.com**
-- <img align="right" height="250px" alt="GIF" src="https://dribbble.com/shots/5343519-Working" style="max-width: 100%;">
+- <img align="right" height="250px" alt="GIF" src="https://drive.google.com/file/d/1smsmKHQaEalThRdRhlMnNUZ6lvdDWT2d/view?usp=sharing" style="max-width: 100%;">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
